@@ -5,3 +5,6 @@
 
 Here are some ideas to get you started:
 this is a simple card design by using HTML AND CSS
+HERE ARE THE PICTURE OF "HOW IT LOOKS"
+
+
